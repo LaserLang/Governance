@@ -16,3 +16,9 @@ We the Core Working Group establish on 2020-12-28 that the Language being develo
 * All orders listed above are to be considered to have the authority of this Governance and any amendment thereof. The Core Working Group shall not dipose of any order listed above, except by amendment.
 * Any text in any existing paper which refers to the Language by the name Laser shall be deemed to use the name Cannon instead. The Responsible Working Group chair shall, in a timely manner, submit a revised version with changes to this effect for approval, unless the Project Manager or the Core Working Group, by *simple-majority* deem it unnecessary for any specific paper. 
 
+## Temporary suspension of the Working Group system
+
+Effective as of <current date>, the members of the Cannon Working Groups shall cease separate functions and collaborate more openly on the Language.
+
+* Meetings shall still be held as normal with the would-be members of the Core Working Group for Governance-related functions and for making more critical Language decisions.
+* This amendment shall be rendered null one year from <current date> pending reassessment of the progress of the Language.
